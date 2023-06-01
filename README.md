@@ -1,4 +1,4 @@
-Hi there, I'm @ngandugilbert! As an AI enthusiast and web developer, I'm always looking for opportunities to expand my skills and knowledge in these areas. Currently, I'm honing my skills in application development and exploring new ways to integrate AI into my projects.
+Hi there, I'm @[ngandugilbert](https://github.com/ngandugilbert/ngandugilbert)! As an AI enthusiast and web developer, I'm always looking for opportunities to expand my skills and knowledge in these areas. Currently, I'm honing my skills in application development and exploring new ways to integrate AI into my projects.
 
 
 
