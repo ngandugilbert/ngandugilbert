@@ -4,7 +4,7 @@ I'm a passionate programmer with a love for:
 - Sports - always up for a challenge!
 - Roblox - where creativity me
 ## Wish to say hello ✨?
-[Click Here!](mailto:ngandugilbert18@gmail.com)
+Send me an email [Click Here!](mailto:ngandugilbert18@gmail.com)
 
 
 
