@@ -1,9 +1,9 @@
-# About Me
+# About Me 😁
 I'm a passionate programmer with a love for:
 - Programming languages, especially DotNet and C#
 - Sports - always up for a challenge!
 - Roblox - where creativity me
-✨ Wish to say hello? [Click Here!](mailto:ngandugilbert18@gmail.com)
+Wish to say hello ✨? [Click Here!](mailto:ngandugilbert18@gmail.com)
 
 
 
