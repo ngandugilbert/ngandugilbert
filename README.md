@@ -1,6 +1,14 @@
-# Hola👋
-- 🤖 I am [ngandugilbert](https://github.com/ngandugilbert/ngandugilbert), an AI enthusiast and an aspiring web developer, always looking for opportunities to expand my skills and knowledge in these areas.
-- ✨ Wish to say hello? [Click Here!](mailto:ngandugilbert18@gmail.com) 
+# About Me👋
+I'm a passionate programmer with a love for:
+- Programming languages, especially DotNet and C#
+- Sports - always up for a challenge!
+- Roblox - where creativity me
+- - ✨ Wish to say hello? [Click Here!](mailto:ngandugilbert18@gmail.com)
+
+
+
+
+  
 
 
 <!---
