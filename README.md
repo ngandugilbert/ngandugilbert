@@ -1,15 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Gilbert</h1>
 <h3 align="center">A passionate <b>C# & .NET Developer</b> | Building apps, games, and dreams 🚀</h3>
 
-<br/>
-
-<div align="center">
-  <!-- Typing Effect (Reliable Vercel Hosted) -->
-  <img src="https://readme-typings.vercel.app ?font=Fira+Code&size=18&color=6BCB77&background=0f0f0f&center=true&width=600&lines=🔥+C%23+%7C+.NET+Enthusiast;🎮+Roblox+Scripting+Fun;💪+Sports+%26+Fitness+Lover;📈+Always+Leveling+Up" alt="typing animation" />
-</div>
-
-<br/>
-
 <div align="center">
   <!-- Tech Badges -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -55,15 +46,6 @@ Yes! I enjoy developing games in **Roblox Studio** using Lua — it’s like C#'
 It’s where creativity meets logic, and I love every second of it.
 
 Want to see what I’ve built? [Let’s chat!](mailto:ngandugilbert18@gmail.com)
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src=" https://github-readme-stats.vercel.app/api?username=ngandugilbert&show_icons=true&theme=radical" alt="Gilbert's Stats" width="48%" />
-  <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=ngandugilbert&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%" /> 
-</div>
-
-<br/>
 
 ## 📬 Let's Connect!
 
