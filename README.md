@@ -17,9 +17,8 @@
 I'm a passionate programmer who lives and breathes **C# and the .NET ecosystem**. From building scalable backend services to scripting fun gameplay mechanics in **Roblox**, I love turning ideas into reality through code.
 
 When I'm not coding:
-- 🏀 You’ll find me on the basketball court or at the gym — fitness keeps me sharp!
-- 🎮 Creating immersive experiences in **Roblox Studio** with Lua
-- 📚 Constantly learning new tech — because growth never stops
+- 🏸 You’ll find me on the badminton court or on my laptop of course — I mean, it's fun!
+- 📚 Constantly learning new tech and a lot of AI — because it's the future
 
 I believe in writing **clean, maintainable, and efficient code** — and I’m always excited to collaborate with others who share the same drive.
 
@@ -35,10 +34,13 @@ I believe in writing **clean, maintainable, and efficient code** — and I’m a
 ![CSS3]( https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Tools & Platforms
-![Git]( https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub]( https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio]( https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![VS Code]( https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![JetBrains Rider]( https://img.shields.io/badge/JetBrains_Rider-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Windows]( https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Ubuntu]( https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=black)
 <!---
 ## 🎮 Fun Fact: I Build Games Too!
 
