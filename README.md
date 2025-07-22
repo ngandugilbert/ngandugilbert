@@ -52,9 +52,10 @@ Want to see what I’ve built? [Let’s chat!](mailto:ngandugilbert18@gmail.com)
 I'm always open to connecting with fellow developers, game creators, or anyone who loves tech and sports.
 
 📧 <a href="mailto:ngandugilbert18@gmail.com">Email Me</a>  
+<!---
 🔗 <a href=" https://linkedin.com/in/yourprofile " target="_blank">LinkedIn</a> *(add if available)*  
 🎮 <a href="https://www.roblox.com/users/yourid/profile " target="_blank">My Roblox Profile</a> *(optional)*
-
+--->
 <br/>
 
 <div align="center">
