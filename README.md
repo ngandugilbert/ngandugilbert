@@ -39,14 +39,14 @@ I believe in writing **clean, maintainable, and efficient code** — and I’m a
 ![GitHub]( https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio]( https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Windows]( https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
+<!---
 ## 🎮 Fun Fact: I Build Games Too!
 
 Yes! I enjoy developing games in **Roblox Studio** using Lua — it’s like C#'s playful cousin 😄  
 It’s where creativity meets logic, and I love every second of it.
 
 Want to see what I’ve built? [Let’s chat!](mailto:ngandugilbert18@gmail.com)
-
+--->
 ## 📬 Let's Connect!
 
 I'm always open to connecting with fellow developers, game creators, or anyone who loves tech and sports.
