@@ -14,13 +14,17 @@
 
 ## 🧠 About Me
 
-I'm a passionate programmer who lives and breathes **C# and the .NET ecosystem**. I specialize in building intelligent web applications and AI agents, turning complex problems into elegant, scalable solutions.
+I'm a passionate programmer who lives and breathes **C# and the .NET ecosystem**. I specialize in building intelligent web applications and AI agents, turning complex problems into elegant, scalable s[...]
 
 When I'm not coding:
 - 🏸 You’ll find me on the badminton court.
 - 🤖 Exploring the world of AI, building intelligent agents, and contributing to the future of technology.
 
 I believe in writing **clean, maintainable, and efficient code** — and I’m always excited to collaborate with others who share the same drive.
+
+## 🤣 Fun Fact
+
+Why do programmers prefer dark mode? Because light attracts bugs! 🐛
 
 ## 🛠️ What I Work With
 
